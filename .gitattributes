@@ -1,0 +1,5 @@
+# Trate arquivos HTML como binários
+*.html binary
+
+# Use uma estratégia de mesclagem personalizada para arquivos HTML
+*.html merge=ours
